@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "projects": "Projets",
+    "games": "Jeux",
+    "lab": "Cyber Lab",
+    "about": "À propos",
+    "contact": "Contact",
+    "language": "Langue",
+    "fr": "FR",
+    "en": "EN"
+  },
+  "hero": {
+    "title": "Étudiant en informatique — cybersécurité, IA & data",
+    "ctaProjects": "Voir mes projets",
+    "ctaPlay": "Jouer",
+    "ctaCV": "Télécharger le CV",
+    "ctaContact": "Me contacter",
+    "tagline": "Je conçois des solutions sécurisées et élégantes: audit web, outils IA, et apps Next.js."
+  },
+  "sections": {
+    "skills": "Compétences",
+    "featured": "Projets en vedette",
+    "gamezone": "Zone de jeux",
+    "cyberlab": "Cyber Lab",
+    "contact": "Me contacter"
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      "Audits de sécurité web (OWASP, rapports CVSS)",
+      "Dév. d'apps Next.js et backends Node",
+      "Automatisation et scripts Python/IA"
+    ]
+  },
+  "stats": {
+    "title": "En chiffres",
+    "projects": "Projets",
+    "hours": "Heures de pratique",
+    "clients": "Clients aidés"
+  },
+  "projects": {
+    "title": "Projets",
+    "search": "Rechercher un projet...",
+    "filter": "Filtrer par stack",
+    "clear": "Effacer",
+    "details": "Détails du projet"
+  },
+  "games": {
+    "title": "Jeux",
+    "snake": "Snake",
+    "tictactoe": "Morpion",
+    "memory": "Memory",
+    "wrapMode": "Wrap mode",
+    "bestScore": "Meilleur score",
+    "timer": "Temps",
+    "moves": "Coups",
+    "bestTime": "Meilleur temps",
+    "easy": "Facile",
+    "hard": "Difficile"
+  },
+  "lab": {
+    "title": "Cyber Lab (sécurisé)",
+    "warning": "Démonstrations pédagogiques et sûres. Aucun scan réseau réel.",
+    "password": "Force du mot de passe",
+    "hash": "Hachage SHA-256",
+    "regex": "Testeur Regex"
+  },
+  "about": {
+    "title": "À propos"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "success": "Message envoyé avec succès !",
+    "error": "Une erreur est survenue."
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
+

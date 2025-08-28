@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "games": "Games",
+    "lab": "Cyber Lab",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language",
+    "fr": "FR",
+    "en": "EN"
+  },
+  "hero": {
+    "title": "Computer science student — cybersecurity, AI & data",
+    "ctaProjects": "View my projects",
+    "ctaPlay": "Play",
+    "ctaCV": "Download CV",
+    "ctaContact": "Contact me",
+    "tagline": "I build secure and polished solutions: web audits, AI tools and Next.js apps."
+  },
+  "sections": {
+    "skills": "Skills",
+    "featured": "Featured projects",
+    "gamezone": "Game Zone",
+    "cyberlab": "Cyber Lab",
+    "contact": "Contact me"
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      "Web security audits (OWASP, CVSS reports)",
+      "Next.js apps and Node backends",
+      "Automation and Python/AI scripts"
+    ]
+  },
+  "stats": {
+    "title": "At a glance",
+    "projects": "Projects",
+    "hours": "Practice hours",
+    "clients": "Clients helped"
+  },
+  "projects": {
+    "title": "Projects",
+    "search": "Search a project...",
+    "filter": "Filter by stack",
+    "clear": "Clear",
+    "details": "Project details"
+  },
+  "games": {
+    "title": "Games",
+    "snake": "Snake",
+    "tictactoe": "Tic-Tac-Toe",
+    "memory": "Memory",
+    "wrapMode": "Wrap mode",
+    "bestScore": "Best score",
+    "timer": "Timer",
+    "moves": "Moves",
+    "bestTime": "Best time",
+    "easy": "Easy",
+    "hard": "Hard"
+  },
+  "lab": {
+    "title": "Cyber Lab (safe)",
+    "warning": "Educational and safe demos. No real network scanning.",
+    "password": "Password strength",
+    "hash": "SHA-256 Hash",
+    "regex": "Regex tester"
+  },
+  "about": {
+    "title": "About"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "success": "Message sent successfully!",
+    "error": "An error occurred."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
+
